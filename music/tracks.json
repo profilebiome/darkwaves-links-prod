@@ -7,9 +7,9 @@
       "artist": "Artista desconocido",
       "ext": "mp3",
       "key": {
-        "salt": "28350929055702dd82d7fe7688c0739c",
+        "salt": "bf8a01acbb450c11b2373b7090f55e9e",
         "iterations": 100000,
-        "hash": "ddbea56fbb4e71180e15250645b4e1d5c6dbcd7a18f394787d561c699682eff1"
+        "hash": "d8a0cb316715b52067388fc6397dd0d24a173b4a2dd949ff46bc3063d7c8fcf8"
       },
       "locked": true
     },
