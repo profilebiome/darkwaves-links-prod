@@ -33,9 +33,9 @@
       "url": "https://darkwaves-panel.profilebio-me.workers.dev/audio/PlinPlaKi%20Joss.wav",
       "assetId": 764604445,
       "key": {
-        "salt": "e4a5711f993d694f144174c639be64b6",
+        "salt": "29a7e0a048a5db38557519069e9d91a9",
         "iterations": 100000,
-        "hash": "bc978d3510c64374b9f42ddf1e1fafba61d7c279ff59c3f43acfcbfaa15a7cc5"
+        "hash": "a9f584cf370ef14b3876bd05a090ea0b095be8b64812b60f2cd6ae0d298a8fd8"
       },
       "locked": true
     }
