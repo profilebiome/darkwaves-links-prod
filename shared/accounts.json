@@ -1,12 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T00:43:56.012Z",
+  "updatedAt": "2026-11-23T22:37:41.474Z",
   "users": {
     "admin": {
-      "salt": "b71446d7cd88415d5f6134325e46f0d8",
+      "salt": "fd70c7752a0c33fef1d609c75fbe37c5",
       "iterations": 100000,
-      "hash": "23e9d084da2c718798cde16b25fdba3b2cac165087b995174e2bb06de0c2b4ac",
-      "owner": true
+      "hash": "817f6a4b243a3387bb2169d7aea333dc94533969bf74ed202f6bb2532d42f8d3",
+      "owner": true,
+      "createdAt": "2026-11-23T22:37:41.474Z",
+      "updatedAt": "2026-11-23T22:37:41.474Z"
     }
   }
 }
